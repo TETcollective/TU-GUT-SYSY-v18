@@ -15,6 +15,9 @@ Lattice QCD Strong Coupling Phase Diagram
 **Paper**  
 TU-GUT-SYSY_v18.pdf (in this repo)
 
-**DOI** (coming in 2 min): will be assigned upon publication
+**DOI**  
+https://doi.org/10.5281/zenodo.17869793
 
-### Riga pronta per tetcollective.org (copia-incolla dopo pubblicazione)
+https://github.com/TETcollective/TU-GUT-SYSY-v18
+
+
